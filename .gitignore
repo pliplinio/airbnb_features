@@ -1,1 +1,11 @@
 desktop.ini
+__pycache__/
+*.pyc
+.env
+.venv/
+*.egg-info/
+dist/
+build/
+.databricks/.bundle/
+.ruff_cache/
+.pytest_cache/
